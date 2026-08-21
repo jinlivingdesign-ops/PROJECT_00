@@ -1,0 +1,7 @@
+{
+  "name": "SNS 콘텐츠 에디터 스튜디오",
+  "description": "라이프스타일 브랜드를 위한 올인원 SNS 콘텐츠 에디터 스튜디오 - 로드맵 기획, 영감·문화 리서치, 멀티채널 카피라이팅, AI 피드백 및 게시본 관리",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
